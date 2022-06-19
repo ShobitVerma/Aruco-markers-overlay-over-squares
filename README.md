@@ -1,6 +1,3 @@
-# Aruco-markers-overlay-over-squares
-
-
 import cv2
 from cv2 import approxPolyDP
 import cv2.aruco as aruco
